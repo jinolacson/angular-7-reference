@@ -780,4 +780,5 @@ Save it, and the result in the browser should look like this!
 ``
 https://www.tutespace.com/
 https://jasonwatmore.com/post/2018/11/16/angular-7-jwt-authentication-example-tutorial?utm_source=dormosheio&utm_campaign=dormosheio
+https://github.com/jatarga/angular-login-tutorial
 ``
